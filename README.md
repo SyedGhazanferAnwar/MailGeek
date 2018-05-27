@@ -14,4 +14,3 @@ First of all download the mailgeek repository.Then follow the steps below:
 
 ![alt text](/images/snip1_edit.jpg)
 
-## Backend Logic and Server Side Code
