@@ -8,7 +8,7 @@ First of all download the mailgeek repository. Then follow the steps below:
 2. Then turn on the developer mode and click Load unpacked extension..
 ![alt text](https://developer.chrome.com/native-client/images/extensions-management.png)
 
-3. After clicking Load Unpacked option, a dialog will open indicating to select a plugin folder. So select the `MailGeek-master` folder downloaded from the above repository.
+3. After clicking Load unpacked extention.., a dialog will open indicating to select a plugin folder. So select the `MailGeek-master` folder downloaded from the above repository.
 
 4. After step 3,restart the browser. 
 
