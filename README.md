@@ -10,7 +10,10 @@ First of all download the mailgeek repository. Then follow the steps below:
 
 3. After clicking Load Unpacked option, a dialog will open indicating to select a plugin folder. So select the `MailGeek-Plugin` folder downloaded from the above repository.
 
-4. That is it. Now a small icon at the top right will indicate that your plugin is active, Now whenever you will send mail to anybody, as soon as he open the mail you will be notified by a mail which looks as follows.
+4. After step 3,restart the browser. 
+
+5. That is it. Now a small icon at the top right will indicate that your plugin is active, Now 
+whenever you will send mail to anybody, as soon as he open the mail you will be notified by a mail which looks as follows.
 
 ![alt text](/images/snip1_edit.jpg)
 
