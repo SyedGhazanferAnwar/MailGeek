@@ -1,6 +1,7 @@
 # MailGeek
 A chrome plugin enabling you to track when your mails are read by your recipient. As soon as your recipient opens the mail you are notified by a mail that your mail is read by recipient.
-
+# NOTE
+The Notification Email may be found in Spam when you are using for first time.Mark them as not Spam and next time it won't go in spam. 
 ## How to use
 First of all download the mailgeek repository. Then follow the steps below:
 1. Goto chrome options->More tools->Extensions
